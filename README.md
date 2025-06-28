@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kartikaydev
-- 👀 I’m interested in Data Science, Machine Learning, Django, Data Visualisation tools, Python,C++.
-- 🌱 I’m currently learning Data Science and Web Development.
+- 👀 I’m interested in Data Science, Machine Learning, Alteryx, Data Visualisation tools, Python.
+- 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - mail me@ sharmakartikaydev@gmail.com
 
